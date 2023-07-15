@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=The+Beatles&type=artist&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25722382
+      },
+      "genres" : [ "beatlesque", "british invasion", "classic rock", "merseybeat", "psychedelic rock", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
+        "width" : 160
+      } ],
+      "name" : "The Beatles",
+      "popularity" : 82,
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rH6ZqyKeYKNrPGWM9xK7e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1705
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4rH6ZqyKeYKNrPGWM9xK7e",
+      "id" : "4rH6ZqyKeYKNrPGWM9xK7e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273218e076d365a0772859659d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02218e076d365a0772859659d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851218e076d365a0772859659d5",
+        "width" : 64
+      } ],
+      "name" : "Beatless",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:4rH6ZqyKeYKNrPGWM9xK7e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5o723EMxNulM5ydXRh7Qkk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2105
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5o723EMxNulM5ydXRh7Qkk",
+      "id" : "5o723EMxNulM5ydXRh7Qkk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd19de1859567e3305f238758",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d19de1859567e3305f238758",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d19de1859567e3305f238758",
+        "width" : 160
+      } ],
+      "name" : "The Beatles Complete On Ukulele",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:5o723EMxNulM5ydXRh7Qkk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0rhGLV687CCwGfeJYXd176"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5542
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0rhGLV687CCwGfeJYXd176",
+      "id" : "0rhGLV687CCwGfeJYXd176",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a53d58fac4e46d5264adc122",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a53d58fac4e46d5264adc122",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a53d58fac4e46d5264adc122",
+        "width" : 64
+      } ],
+      "name" : "The Beatles Tribute Band",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:0rhGLV687CCwGfeJYXd176"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2HPX6LgKluE3jv3Q6ZKVyX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2HPX6LgKluE3jv3Q6ZKVyX",
+      "id" : "2HPX6LgKluE3jv3Q6ZKVyX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7f376fa90732288b854a491",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7f376fa90732288b854a491",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7f376fa90732288b854a491",
+        "width" : 64
+      } ],
+      "name" : "The Beatles Piano Covers",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:2HPX6LgKluE3jv3Q6ZKVyX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cBV24PM5nZsXqopSHvdtS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15178
+      },
+      "genres" : [ "tribute" ],
+      "href" : "https://api.spotify.com/v1/artists/3cBV24PM5nZsXqopSHvdtS",
+      "id" : "3cBV24PM5nZsXqopSHvdtS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738439bc625fdf63ed50bbb594",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028439bc625fdf63ed50bbb594",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518439bc625fdf63ed50bbb594",
+        "width" : 64
+      } ],
+      "name" : "The Beatles Recovered Band",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:3cBV24PM5nZsXqopSHvdtS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WQ4jRVGAgNcYI3PmKfcbu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 300
+      },
+      "genres" : [ "fake" ],
+      "href" : "https://api.spotify.com/v1/artists/0WQ4jRVGAgNcYI3PmKfcbu",
+      "id" : "0WQ4jRVGAgNcYI3PmKfcbu",
+      "images" : [ ],
+      "name" : "The Beatles Recovered Band",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:0WQ4jRVGAgNcYI3PmKfcbu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EzNTMzMN70jRxBWbxeshd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2876
+      },
+      "genres" : [ "tribute" ],
+      "href" : "https://api.spotify.com/v1/artists/7EzNTMzMN70jRxBWbxeshd",
+      "id" : "7EzNTMzMN70jRxBWbxeshd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27328722270479e96b83aa32feb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0228722270479e96b83aa32feb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485128722270479e96b83aa32feb",
+        "width" : 64
+      } ],
+      "name" : "The Beatles Tribute Project",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:7EzNTMzMN70jRxBWbxeshd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3muGwkg7cEbK52vzp76J38"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5517
+      },
+      "genres" : [ "british invasion" ],
+      "href" : "https://api.spotify.com/v1/artists/3muGwkg7cEbK52vzp76J38",
+      "id" : "3muGwkg7cEbK52vzp76J38",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c8a2e6a6683c3e266184c6a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c8a2e6a6683c3e266184c6a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c8a2e6a6683c3e266184c6a7",
+        "width" : 64
+      } ],
+      "name" : "Tony Sheridan",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:3muGwkg7cEbK52vzp76J38"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZOhDuAjCjvw9z5lEGUmgZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13658
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ZOhDuAjCjvw9z5lEGUmgZ",
+      "id" : "3ZOhDuAjCjvw9z5lEGUmgZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733a7b5350a0b1408295c0d8f2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023a7b5350a0b1408295c0d8f2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513a7b5350a0b1408295c0d8f2",
+        "width" : 64
+      } ],
+      "name" : "The Beatles Connection",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZOhDuAjCjvw9z5lEGUmgZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4s0XGFVyR7iLaxdxbuKygy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4s0XGFVyR7iLaxdxbuKygy",
+      "id" : "4s0XGFVyR7iLaxdxbuKygy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27314f0e7eda7a5885bacb311f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0214f0e7eda7a5885bacb311f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485114f0e7eda7a5885bacb311f4",
+        "width" : 64
+      } ],
+      "name" : "The Beatles on Piano",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4s0XGFVyR7iLaxdxbuKygy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WbrcD0pLOy7RWlu0lXFeJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 211
+      },
+      "genres" : [ "children's music" ],
+      "href" : "https://api.spotify.com/v1/artists/3WbrcD0pLOy7RWlu0lXFeJ",
+      "id" : "3WbrcD0pLOy7RWlu0lXFeJ",
+      "images" : [ ],
+      "name" : "Sesame Street's The Beetles",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:3WbrcD0pLOy7RWlu0lXFeJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Jee0nDYfCqDBV98n5gLhY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 104
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Jee0nDYfCqDBV98n5gLhY",
+      "id" : "3Jee0nDYfCqDBV98n5gLhY",
+      "images" : [ ],
+      "name" : "The Beatles Revival Band",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Jee0nDYfCqDBV98n5gLhY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DghgxF3jV3G5xfcTpZpKr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6929
+      },
+      "genres" : [ "tribute" ],
+      "href" : "https://api.spotify.com/v1/artists/2DghgxF3jV3G5xfcTpZpKr",
+      "id" : "2DghgxF3jV3G5xfcTpZpKr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b280f848307971c3f742c494",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b280f848307971c3f742c494",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b280f848307971c3f742c494",
+        "width" : 64
+      } ],
+      "name" : "Re Beatles",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:2DghgxF3jV3G5xfcTpZpKr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Pi3viYqawZx95Gan2dyC3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2632
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Pi3viYqawZx95Gan2dyC3",
+      "id" : "5Pi3viYqawZx95Gan2dyC3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb93f290ee7e61cff9b5dc0e49",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517493f290ee7e61cff9b5dc0e49",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17893f290ee7e61cff9b5dc0e49",
+        "width" : 160
+      } ],
+      "name" : "I Hate The Beatles",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Pi3viYqawZx95Gan2dyC3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1c4dcJh2dBjZgPDLid6Cxl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 93
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1c4dcJh2dBjZgPDLid6Cxl",
+      "id" : "1c4dcJh2dBjZgPDLid6Cxl",
+      "images" : [ ],
+      "name" : "Barack Obama with The Beatles Complete On Ukulele Community Choir",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:1c4dcJh2dBjZgPDLid6Cxl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36QpVbYALWlz5NtMI3LhiV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11522
+      },
+      "genres" : [ "tribute" ],
+      "href" : "https://api.spotify.com/v1/artists/36QpVbYALWlz5NtMI3LhiV",
+      "id" : "36QpVbYALWlz5NtMI3LhiV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f903d75acdce7727b3c4aa2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f903d75acdce7727b3c4aa2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f903d75acdce7727b3c4aa2c",
+        "width" : 64
+      } ],
+      "name" : "The Beatles Greatest Hits Performed By The Frank Berman Band",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:36QpVbYALWlz5NtMI3LhiV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vuYd8ifdPWL3TgjPXgfgF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 384
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3vuYd8ifdPWL3TgjPXgfgF",
+      "id" : "3vuYd8ifdPWL3TgjPXgfgF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba298d0366a41d713e9d847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba298d0366a41d713e9d847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba298d0366a41d713e9d847",
+        "width" : 64
+      } ],
+      "name" : "The New Beatles",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:3vuYd8ifdPWL3TgjPXgfgF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5WTOPRu5W51m3TEU4BupIR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 186
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5WTOPRu5W51m3TEU4BupIR",
+      "id" : "5WTOPRu5W51m3TEU4BupIR",
+      "images" : [ ],
+      "name" : "The Silver Beatles",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:5WTOPRu5W51m3TEU4BupIR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/419jnuNhkJJvPAUANh7YAo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13568
+      },
+      "genres" : [ "tribute" ],
+      "href" : "https://api.spotify.com/v1/artists/419jnuNhkJJvPAUANh7YAo",
+      "id" : "419jnuNhkJJvPAUANh7YAo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27347e7451736bbdd31358023b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0247e7451736bbdd31358023b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485147e7451736bbdd31358023b3",
+        "width" : 64
+      } ],
+      "name" : "The Ultimate Beatles Cover Band",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:419jnuNhkJJvPAUANh7YAo"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=The+Beatles&type=artist&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 71
+  }
+}
